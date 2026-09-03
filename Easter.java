@@ -44,7 +44,8 @@ public class Easter{
             System.out.println("n = "+n);
             int p = (h + r - 7 * m + 114)%31;
             System.out.println("p = "+p);
-            System.out.println("Easter in 2026 falls on 4/"+ (p+1));
+            System.out.println("Easter in " +y);
+            System.out.println ("falls on 4/"+ (p+1));
         }
     }
 }
